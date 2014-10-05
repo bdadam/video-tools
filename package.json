@@ -1,0 +1,30 @@
+{
+  "name": "video-tools",
+  "description": "Tool collection for various video players and services",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bdadam/video-tools.git"
+  },
+  "keywords": [
+    "video",
+    "youtube",
+    "vimeo",
+    "embed"
+  ],
+  "author": "Adam Beres-Deak <me@bdadam.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bdadam/video-tools/issues"
+  },
+  "homepage": "https://github.com/bdadam/video-tools",
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "gulp": "^3.8.8",
+    "gulp-mocha": "^1.1.1"
+  }
+}
